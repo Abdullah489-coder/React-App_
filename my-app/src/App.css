@@ -1,0 +1,31 @@
+
+#con-img{
+  bottom: 100px;
+}
+#inner-card{
+  left: -500px;
+}
+#paragraph{
+  padding: 15px  10px;
+  color: #181A2A;
+font-size: 24px;
+font-family: Work Sans;
+
+font-weight: 600;
+line-height: 28px;
+word-wrap: break-word
+}
+#con-card{
+  position: relative;
+  left: 100px;
+  top: -150px;
+}
+#card-p{
+  color: #181A2A;
+  font-size: 36px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 40px;
+  word-wrap: break-word;
+  padding: 5px 0 0 5px;
+}

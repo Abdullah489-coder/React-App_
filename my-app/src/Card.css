@@ -1,0 +1,65 @@
+#card-btn{
+    color: #4B6BFB;
+  font-size: 14px;
+  font-family: Work Sans;
+  font-weight: 500;
+  line-height: 20px;
+  word-wrap: break-word;
+  
+  }
+  #main-img{
+    padding: 0 0 10px 10px;
+  }
+  #names{
+    padding: 5px 20px;
+  }
+  #page-btn{
+    color: #696A75;
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 500;
+  line-height: 24px;
+  word-wrap: break-word;
+  border: 2px solid rgb(133, 124, 124);
+  }
+  #page-btn:hover{
+    background-color: rgb(52, 52, 85);
+    font-size: 20px;
+    font-weight: 600;
+    color: #f7f7fc;
+  }
+  #footer{
+    background-color: #f7f7fc;
+    padding: 30px 0 0 20px;
+  }
+  #footer a{
+    color: #3B3C4A;
+  font-size: 16px;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400;
+  line-height: 24px;
+  word-wrap: break-word;
+  text-decoration: none;
+  padding-left: 20px;
+  padding-top: 10px;
+  }
+  #footer h4{
+    color: #181A2A;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 28px;
+  word-wrap: break-word;
+  padding-bottom: 25px;
+  }
+  #footer-p{
+    color: #696A75;
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 24px;
+  word-wrap: break-word
+  }
+  #search-bo{
+  width: 55%;
+  }
+ 
